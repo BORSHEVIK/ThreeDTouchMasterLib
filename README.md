@@ -1,6 +1,8 @@
 # ThreeDTouchMasterLib
 
 This is simple library for emulating 3D Touch on Android devices with minimal API level 8
+
+Link to Demo Android application: https://play.google.com/store/apps/details?id=com.aleksandr.miron
 _______________________________________________________________________________________________
 
 If you wont use this library you need add this code in your project
