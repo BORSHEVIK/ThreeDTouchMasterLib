@@ -64,7 +64,7 @@ mThreeDTouchMaster.addViewForListening(view, colibTime);
 Also you can change colibrate time for all view elements
 
 ```
-mThreeDTouchMaster.setColibTimeForAll(, colibTime);
+mThreeDTouchMaster.setColibTimeForAll(colibTime);
 ```
 
 or change colibrate time for necessary view
